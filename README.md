@@ -1,5 +1,5 @@
 
-# ID3-algorithm---Car-Economy
+# ID3-algorithm-Car-Economy
 Iterative Dichotomiser 3 algorithm used on Car Economy Dataset 
 
 Decision Tree output:
